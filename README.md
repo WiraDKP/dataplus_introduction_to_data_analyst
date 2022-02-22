@@ -1,4 +1,4 @@
-# Dataplus 3 Weeks Course - Introduction to Data Analyst
+# Dataplus 4 Weeks Course - Introduction to Data Analyst
 
 # Starter Guide
 ## Step 1: Download materi
